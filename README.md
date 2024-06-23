@@ -81,7 +81,7 @@
             <h1>诗歌本</h1>
             <button class='button button1 button2' onclick="window.location.href='https://a1189.icu/#/hymn'">站点一</button>
             <button class='button button1 button2' onclick="window.location.href='诗歌本.apk'">本站下载</button>
-            <button class='button button1 button2' onclick="window.location.href='https://appkpj.icu/#/hymn'">问题反馈请加qq号727546069</button>
+            <button class='button button1 button2' onclick="window.location.href='https://appkpj.icu/#/hymn'">反馈qq：727546069</button>
         </div>
     </div>    
 </body>
